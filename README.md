@@ -135,7 +135,7 @@ Experienced in collaborating with cross-functional teams, implementing best prac
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonsalinos&theme=tokyonight&layout=compact&custom_title=Tecnologieslangs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonsalinos&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
   />
 
 </p>
